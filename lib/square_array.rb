@@ -6,3 +6,4 @@ def square_array(array)
     return num ** num
   counter +=1
 end
+end
